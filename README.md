@@ -8,7 +8,7 @@ The policy sets out:
 
 The policy proposes a new mailing list ietf-admin@ietf.org for the discussion of IETF LLC related matters.
 
-The IETF LLC now seeks community feedback on this proposed policy.  Please provide feedback by 26 October 2020 00:00 UTC.  Feedback can be provided by any of the following methods:
+The IETF LLC now seeks community feedback on this proposed policy.  Please provide feedback by 26 October 2020 00:00 UTC using any of the following methods:
 
 * Raising an issue on this Github repository
 * Direct to the IETF Executive Director at exec-director@ietf.org
