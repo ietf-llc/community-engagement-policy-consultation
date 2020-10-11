@@ -15,4 +15,4 @@ The IETF LLC now seeks community feedback on this proposed policy.  Please provi
 * Direct to the IETF LLC Board (not including the IETF Executive Director) at llc-board-only@ietf.org
 * To the ietf@ietf.org list
 
-[1] 
+[1] https://github.com/ietf-llc/community-engagement-policy-consultation/blob/master/DRAFT%20Community%20Engagement%20Policy.md

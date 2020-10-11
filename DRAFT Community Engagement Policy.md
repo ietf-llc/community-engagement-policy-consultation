@@ -18,9 +18,9 @@ This policy sets out the general approach, scope and mechanisms used by Covered 
 
 ### Context
 
-RFC 8711 section 4 sets out the scope and principles of the IETF LLC and in particular, notes that the LLC is the administrative support organisation to the IETF/IRTF/IAB and has no authority over the standards development activities.  The IETF LLC is expected to implement community requirements as specified in the form of BCPs and to take advice from the community as specified in informational RFCs and as provided in consultations.
+[RFC 8711 section 4](https://tools.ietf.org/html/rfc8711#section-4) sets out the scope and principles of the IETF LLC and in particular, notes that the LLC is the administrative support organisation to the IETF/IRTF/IAB and has no authority over the standards development activities.  The IETF LLC is expected to implement community requirements as specified in the form of BCPs and to take advice from the community as specified in informational RFCs and as provided in consultations.
 
-This policy should be read in conjunction with the IETF LLC Code of Conduct and nothing here should be taken as overriding or amending that policy.
+This policy should be read in conjunction with the [IETF LLC Code of Conduct](https://ietf.org/about/administration/policies-procedures/code-of-conduct/) and nothing here should be taken as overriding or amending that policy.
 
 ## Development of RFCs
 
