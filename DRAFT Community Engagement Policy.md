@@ -4,12 +4,7 @@
 
 ### Scope
 
-This policy applies to all Covered Individuals of the IETF Administration LLC (IETF LLC).
-
-Covered Individuals include the IETF LLC Board Directors, employees and contractors, as well as any volunteers and agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity.  For the purposes of this policy, Covered Role means the role that an individual holds that makes them a Covered Individual.
-
-Covered Individuals do not include IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
-
+This policy applies to all Covered Individuals of the IETF Administration LLC (IETF LLC). Rather than restate the definition of Covered Individuals here, please refer to pre-existing IETF LLC policies with that definition, such as the Code of Conduct at https://www.ietf.org/about/administration/policies-procedures/code-of-conduct/.
 
 ### Purpose of this Policy
 
