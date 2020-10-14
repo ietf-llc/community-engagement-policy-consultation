@@ -2,6 +2,8 @@
 
 ## Background
 
+This policy describes how the IETF LLC will typically consult and engage with the IETF community.
+
 ### Scope
 
 This policy applies to all Covered Individuals of the IETF Administration LLC (IETF LLC).
@@ -13,7 +15,7 @@ Covered Individuals do not include IETF participants, IRTF participants, IESG me
 
 ### Purpose of this Policy
 
-This policy sets out the general approach, scope and mechanisms used by Covered Individuals when engaging with the community.  This policy does not apply to the management of RFPs or contracts.
+This policy sets out the general approach to how the IETF LLC may consult with the IETF community as it conducts business. It sets out the general approach, scope and mechanisms used by Covered Individuals when engaging with the community in their official IETF LLC roles.  This policy does not apply to the management of RFPs or contracts.
 
 ### Context
 
@@ -21,28 +23,19 @@ This policy sets out the general approach, scope and mechanisms used by Covered 
 
 This policy should be read in conjunction with the [IETF LLC Code of Conduct](https://ietf.org/about/administration/policies-procedures/code-of-conduct/) and nothing here should be taken as overriding or amending that policy.
 
-## Volunteering in the IETF
-
-It is recognised that some Covered Individuals may also be community volunteers engaged in the full range of standards development process and there is no expectation that this engagement must cease when they become a Covered Individual.  Some Covered Roles may require Covered Individuals to be explicitly prohibited from acting as community volunteers.
-
-Covered Individuals are expected to ensure that any engagement as a volunteer is not a conflict of interest with their Covered Role(s).
-
-Covered Individuals are also expected to ensure that it is always clear to those being engaged with, whether the Covered Individual is engaging in their Covered Role(s) or as a volunteer, as assumptions may vary between people and situations.
-
-Covered Individuals should note that even while contributing as a volunteer, the Code of Conduct still applies.
-
-
 ## Community Feedback
 
 ### Consultations
 
-Consultations are the most important means by which the IETF LLC seeks feedback from the community to inform its decision making and all consultations should be structured and well managed to maximise the opportunity for the community to respond. 
+Consultations are the most important means by which the IETF LLC seeks feedback from the community to inform its decision making and all consultations should be well structured and well managed to maximise the opportunity for the community to respond. 
 
-Well structured means each consultation should be based on some form of document or email and should have a defined finish date.  The document should set out the context to the consultation and any specific questions that the IETF LLC seeks feedback on.  Consultations should normally run for two weeks with a minimum time of 48 hours for urgent consultations.  
+Well structured means each consultation should be based on some form of document or email and should have a defined finish date.  The document should set out the context to the consultation and any specific questions on which the IETF LLC seeks feedback.  Consultations should normally run for two weeks with a minimum time of 48 hours for urgent consultations.  
 
 Well managed means that all feedback is tracked and either incorporated or the reasons for non-incorporated are clearly noted.  If the consultation is on specific text then new text may be produced during the consultation to respond to the feedback as it is raised.
 
 When a consultation is complete and a decision made on the feedback received, then the community will be informed of this.
+
+## Engagement Mechanisms
 
 ### Surveys
 
@@ -50,11 +43,9 @@ The IETF LLC regularly conducts surveys of the community to inform its decision 
 Only data that is voluntarily provided by the respondents is to be collected and used.  Data should not be requested that identifies the respondent.
 Survey results should generally be made public in the form of a report or data tables but with care taken to preserve the anonymity of respondents.  The results may be redacted if they contain material the IETF LLC thinks is inappropriate, such as advertising material or identifying people by name.
 
-## Engagement Mechanisms
-
 ### Published Documents
 
-The IETF LLC sits outside of and supports the standards development process. The IETF LLC’s published documents do not reflect any form of community consensus but reflect solely the position of the IETF LLC.  These documents may be long lived or may change both frequently and rapidly depending on the circumstance.  Consequently, the IETF LLC does not ordinarily use the Internet-Draft (I-D) format for its documents and does not publish RFCs but instead chooses a document format and publication mechanism that is appropriate to each class of document that it publishes. The one exception is where the IETF LLC is expected to use the I-D format to input into a community managed process. 
+The IETF LLC sits outside of and supports the standards development process. These documents may be long lived or may change both frequently and rapidly depending on the circumstance.  Consequently, the IETF LLC does not ordinarily use the Internet-Draft (I-D) format for its documents and does not publish RFCs but instead chooses a document format and publication mechanism that is appropriate to each class of document that it publishes. The one exception is where the IETF LLC may find in necessary to use the I-D format to input into a community-managed process (e.g. IETF Working Group). 
 
 ### Announcements
 
@@ -74,11 +65,11 @@ Other announcement lists may be used for more specific announcements.
 
 Staff will, at a minimum, monitor the following lists for any discussions relevant to the IETF LLC:
 * ietf-admin@ietf.org (a new list)
-* ietf@ietf
-* tools-discuss
-* wgchairs
-* tools-arch
-* attendees lists
+* ietf@ietf.org
+* tools-discuss@ietf.org
+* wgchairs@ietf.org
+* tools-arch@ietf.org
+* attendees lists (e.g. 101attendees@ietf.org)
 * All lists associated with GEN area working groups, documents, and pre-working-group efforts.
 
 The primary list for the discussion of LLC administrative issues is ietf-admin@ietf.org  and is used as the reply-to address for IETF LLC consultations.  While this list is only used by the LLC for administrative discussions, with the IESG continuing to use ietf@ietf.org, it is named more generically to make it easier for newcomers to recognise its significance.
