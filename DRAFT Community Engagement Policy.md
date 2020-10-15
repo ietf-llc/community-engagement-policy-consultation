@@ -2,20 +2,9 @@
 
 ## Background
 
-This policy describes how the IETF LLC will typically consult and engage with the IETF community.
-
-### Scope
-
-This policy applies to all Covered Individuals of the IETF Administration LLC (IETF LLC).
-
-Covered Individuals include the IETF LLC Board Directors, employees and contractors, as well as any volunteers and agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity.  For the purposes of this policy, Covered Role means the role that an individual holds that makes them a Covered Individual.
-
-Covered Individuals do not include IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
-
-
 ### Purpose of this Policy
 
-This policy sets out the general approach to how the IETF LLC may consult with the IETF community as it conducts business. It sets out the general approach, scope and mechanisms used by Covered Individuals when engaging with the community in their official IETF LLC roles.  This policy does not apply to the management of RFPs or contracts.
+The purpose of this policy is to ensure that IETF Administration LLC (IETF LLC) community consultations and general community engagement are consistent, well structured and in line with the values of the IETF LLC. This policy provides guidance to IETF LLC board, staff and contractors when they engage with the community in their IETF LLC role.  This policy does not apply to the management of RFPs or contracts.
 
 ### Context
 
