@@ -1,3 +1,5 @@
+**THIS CONSULTATION HAS NOW CLOSED**
+
 The IETF Administration LLC (IETF LLC) has drafted a proposed IETF LLC Community Engagement Policy [1] that sets out how IETF LLC board, staff and contractors will engage with the IETF community, including:
  
 * what involvement board, staff and contractors may have in the the development of RFCs;
